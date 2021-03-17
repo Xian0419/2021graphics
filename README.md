@@ -2,6 +2,7 @@
 
 -基本程式碼-
 
+
 #include <GL/glut.h> ///使用GLUT外掛
 int N=0,vx[3000], vy[3000]; ///x,y座標各給它們3000個點空間
 void display()
